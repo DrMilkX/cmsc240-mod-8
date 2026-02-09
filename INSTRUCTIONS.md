@@ -7,6 +7,7 @@ Write a C++ program that uses regular expressions to determine whether the user 
 
 **Use [regexr.com](regexr.com) to help figure out patterns!**
 
+(Note: if you have difficulties opening the programs, try running `chmod +x not_a_scam`)
 
 ### Requirements
 
